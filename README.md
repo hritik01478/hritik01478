@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Blog Website](https://github.com/hritik01478/hritik-blog)
 
-- 🌱 I’m currently learning **DSA , React**
+- 🌱 I’m currently learning **DSA , React, Node**
 
 - 👯 I’m looking to collaborate on **Web Development**
 
